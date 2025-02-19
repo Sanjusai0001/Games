@@ -8,7 +8,6 @@ print("Welcome to Dice stimulator")
 time.sleep(2)
 print("Do you wanna play?")
 
-
 def dice_game():
 
     x = "y"
